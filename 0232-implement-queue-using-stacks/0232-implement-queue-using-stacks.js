@@ -16,9 +16,8 @@ MyQueue.prototype.push = function (x) {
  * @return {number}
  */
 MyQueue.prototype.pop = function () {
-    let n = this.s1.length
-    if (this.s2.length == 0) {
-        for (let i = 0; i < n; i++) {
+    if (this.s2.length === 0) {
+        while (this.s1.length) {
             this.s2.push(this.s1.pop())
         }
     }
@@ -30,9 +29,8 @@ MyQueue.prototype.pop = function () {
  * @return {number}
  */
 MyQueue.prototype.peek = function () {
-    let n = this.s1.length
-    if (this.s2.length == 0) {
-        for (let i = 0; i < n; i++) {
+    if (this.s2.length === 0) {
+        while (this.s1.length) {
             this.s2.push(this.s1.pop())
         }
     }
