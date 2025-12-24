@@ -5,9 +5,9 @@
 var isValid = function (s) {
     let stack = []
     let map = {
-        '{':'}',
-        '(':')',
-        '[':']'
+        '{': '}',
+        '(': ')',
+        '[': ']'
     }
 
     for (let i = 0; i < s.length; i++) {
@@ -16,7 +16,7 @@ var isValid = function (s) {
         }
         else {
             let top = stack.pop()
-            if (!top || s[i] !== map[top]){
+            if (s[i] !== map[top] || !top ) {
                 return false
             }
         }
