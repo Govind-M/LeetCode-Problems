@@ -3,20 +3,21 @@
  * @return {string}
  */
 var removeOuterParentheses = function (s) {
-    let stack = []
+    //Using counter approach
+    let depth = 0
     let ans = ''
     for (let i = 0; i < s.length; i++) {
         if (s[i] === "(") {
-            stack.push(s[i])
-            if (stack.length > 1) {
+            depth += 1
+            if (depth > 1) {
                 ans = ans + s[i]
             }
         }
-        else{
-            if (stack.length > 1) {
+        else {
+            if (depth > 1) {
                 ans = ans + s[i]
             }
-            stack.pop()
+            depth -= 1
         }
     }
     return ans
