@@ -12,24 +12,19 @@ var nextGreaterElement = function (nums1, nums2) {
     map[nums2[nums2.length - 1]] = -1
 
     for (let i = nums2.length - 2; i >= 0; i--) {
-        if (nums2[i] < stack[stack.length - 1]) {
-            map[nums2[i]] = stack[stack.length - 1]
-        }
-        else {
-            while (stack.length) {
-                if (nums2[i] > stack[stack.length - 1]) {
-                    stack.pop()
-                }
-                else {
-                    map[nums2[i]] = stack[stack.length - 1]
-                    break
-                }
+        while (stack.length) {
+            if (nums2[i] > stack[stack.length - 1]) {
+                stack.pop()
             }
+            else {
+                map[nums2[i]] = stack[stack.length - 1]
+                break
+            }
+        }
+        if (!stack.length) {
+            map[nums2[i]] = -1
+        }
 
-            if (!stack.length) {
-                map[nums2[i]] = -1
-            }
-        }
         stack.push(nums2[i])
     }
 
