@@ -3,7 +3,9 @@
  * @return {number[]}
  */
 var dailyTemperatures = function (t) {
-    let ans = []
+
+    let n = t.length
+    let ans = Array(n).fill(0)
     let stack = []
 
     ans[t.length-1] = 0
