@@ -3,18 +3,19 @@
  * @return {number[]}
  */
 var nextGreaterElements = function (nums) {
-    let arr = [...nums, ...nums]
+
+    let n = nums.length
     let stack = []
 
-    let ans = Array(arr.length).fill(-1)
+    let ans = Array(n).fill(-1)
 
-    ans[arr.length-1] = -1
-    stack.push(arr[arr.length - 1])
+    ans[n] = -1
+    stack.push(nums[n-1])
 
-    for (let i = arr.length - 2; i >= 0; i--){
+    for (let i = (2*n) - 2; i >= 0; i--){
         while(stack.length){
-            if(arr[i]<stack[stack.length-1]){
-                ans[i] = stack[stack.length-1]
+            if(nums[i%n]<stack[stack.length-1]){
+                ans[i%n] = stack[stack.length-1]
                 break
             }
             else
@@ -23,12 +24,12 @@ var nextGreaterElements = function (nums) {
             }
         }
         if(stack.length === 0){
-            ans[i] = -1
+            ans[i%n] = -1
         }
 
-        stack.push(arr[i])
+        stack.push(nums[i%n])
     }
 
-    return ans.slice(0,arr.length/2)
+    return ans.slice(0,n)
 
 };
