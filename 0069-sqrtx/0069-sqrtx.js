@@ -14,7 +14,7 @@ var mySqrt = function (x) {
 
     while (left <= right) {
 
-        middle = left + Math.floor((right - left) / 2)
+        middle = Math.floor(left + (right - left) / 2)
 
 
         
@@ -25,7 +25,7 @@ var mySqrt = function (x) {
         else if (x < middle * middle) {
             right = middle - 1
         }
-        else if (x > middle * middle) {
+        else  {
             left = middle + 1
         }
     }
