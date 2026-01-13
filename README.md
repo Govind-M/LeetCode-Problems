@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Govind-M/LeetCode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Govind-M/LeetCode-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Govind-M/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0162-find-peak-element](https://github.com/Govind-M/LeetCode-Problems/tree/master/0162-find-peak-element) |
 | [0496-next-greater-element-i](https://github.com/Govind-M/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Govind-M/LeetCode-Problems/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Govind-M/LeetCode-Problems/tree/master/0739-daily-temperatures) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Govind-M/LeetCode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/Govind-M/LeetCode-Problems/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Govind-M/LeetCode-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0162-find-peak-element](https://github.com/Govind-M/LeetCode-Problems/tree/master/0162-find-peak-element) |
 | [0278-first-bad-version](https://github.com/Govind-M/LeetCode-Problems/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Govind-M/LeetCode-Problems/tree/master/0374-guess-number-higher-or-lower) |
 ## Interactive
