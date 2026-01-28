@@ -7,14 +7,14 @@ var isSubsequence = function (s, t) {
     let i = 0
     let j = 0
 
-    while (j <= t.length) {
+    while (j < t.length) {
         if (s[i] == t[j]) {
             i += 1
         }
         j += 1
     }
 
-    if(i>s.length){
+    if(i==s.length){
         return true
     }
     else{
