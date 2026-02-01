@@ -2,11 +2,16 @@
  * @param {number[]} nums
  * @return {number}
  */
-var minimumCost = function(nums) {
+var minimumCost = function (nums) {
     let n = nums.length
-    let cost = nums[0]
+    let ans = Infinity
 
-    let newArr = nums.slice(1,n).sort(function(a,b){return a-b})
+    for (let i = 1; i < n - 1; i++) {
+        for (let j = i + 1; j < n; j++) {
+            ans = Math.min(ans, nums[0] + nums[i] + nums[j])
+        }
+    }
 
-    return cost += newArr[0] + newArr[1]
+
+    return ans
 };
