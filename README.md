@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Govind-M/LeetCode-Problems/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Govind-M/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Govind-M/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Govind-M/LeetCode-Problems/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Govind-M/LeetCode-Problems/tree/master/0225-implement-stack-using-queues) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Govind-M/LeetCode-Problems/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Govind-M/LeetCode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Govind-M/LeetCode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Govind-M/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Govind-M/LeetCode-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Govind-M/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Govind-M/LeetCode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Govind-M/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Govind-M/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Govind-M/LeetCode-Problems/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Govind-M/LeetCode-Problems/tree/master/0739-daily-temperatures) |
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Govind-M/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Govind-M/LeetCode-Problems/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Govind-M/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/Govind-M/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Govind-M/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/Govind-M/LeetCode-Problems/tree/master/0392-is-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/Govind-M/LeetCode-Problems/tree/master/0658-find-k-closest-elements) |
@@ -127,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Govind-M/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0392-is-subsequence](https://github.com/Govind-M/LeetCode-Problems/tree/master/0392-is-subsequence) |
 ## String Matching
 |  |
