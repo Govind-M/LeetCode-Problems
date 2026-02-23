@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/Govind-M/LeetCode-Problems/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Govind-M/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0231-power-of-two](https://github.com/Govind-M/LeetCode-Problems/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/Govind-M/LeetCode-Problems/tree/master/0371-sum-of-two-integers) |
 ## Hash Table
 |  |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Govind-M/LeetCode-Problems/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/Govind-M/LeetCode-Problems/tree/master/0371-sum-of-two-integers) |
 ## Two Pointers
 |  |
@@ -178,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Govind-M/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Govind-M/LeetCode-Problems/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
