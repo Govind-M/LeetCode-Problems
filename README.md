@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Govind-M/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0572-subtree-of-another-tree](https://github.com/Govind-M/LeetCode-Problems/tree/master/0572-subtree-of-another-tree) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Govind-M/LeetCode-Problems/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Enumeration
 |  |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Govind-M/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Govind-M/LeetCode-Problems/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Govind-M/LeetCode-Problems/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Govind-M/LeetCode-Problems/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Govind-M/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Govind-M/LeetCode-Problems/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Govind-M/LeetCode-Problems/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Govind-M/LeetCode-Problems/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -220,8 +223,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Govind-M/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Govind-M/LeetCode-Problems/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Govind-M/LeetCode-Problems/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Govind-M/LeetCode-Problems/tree/master/0572-subtree-of-another-tree) |
 ## Recursion
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Govind-M/LeetCode-Problems/tree/master/0231-power-of-two) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Govind-M/LeetCode-Problems/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
