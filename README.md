@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Govind-M/LeetCode-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Govind-M/LeetCode-Problems/tree/master/0572-subtree-of-another-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Govind-M/LeetCode-Problems/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Govind-M/LeetCode-Problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Govind-M/LeetCode-Problems/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Govind-M/LeetCode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Govind-M/LeetCode-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Govind-M/LeetCode-Problems/tree/master/0572-subtree-of-another-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Govind-M/LeetCode-Problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Govind-M/LeetCode-Problems/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Recursion
 |  |
@@ -262,4 +264,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Govind-M/LeetCode-Problems/tree/master/0098-validate-binary-search-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Govind-M/LeetCode-Problems/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
