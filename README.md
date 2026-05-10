@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Govind-M/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Govind-M/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0392-is-subsequence](https://github.com/Govind-M/LeetCode-Problems/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/Govind-M/LeetCode-Problems/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/Govind-M/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [1021-remove-outermost-parentheses](https://github.com/Govind-M/LeetCode-Problems/tree/master/1021-remove-outermost-parentheses) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Govind-M/LeetCode-Problems/tree/master/2185-counting-words-with-a-given-prefix) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Govind-M/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/Govind-M/LeetCode-Problems/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/Govind-M/LeetCode-Problems/tree/master/0371-sum-of-two-integers) |
+| [0412-fizz-buzz](https://github.com/Govind-M/LeetCode-Problems/tree/master/0412-fizz-buzz) |
 ## Hash Table
 |  |
 | ------- |
@@ -305,4 +307,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Govind-M/LeetCode-Problems/tree/master/0173-binary-search-tree-iterator) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Govind-M/LeetCode-Problems/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
