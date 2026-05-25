@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Govind-M/LeetCode-Problems/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Govind-M/LeetCode-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0994-rotting-oranges](https://github.com/Govind-M/LeetCode-Problems/tree/master/0994-rotting-oranges) |
+| [1046-last-stone-weight](https://github.com/Govind-M/LeetCode-Problems/tree/master/1046-last-stone-weight) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Govind-M/LeetCode-Problems/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Govind-M/LeetCode-Problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Govind-M/LeetCode-Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Govind-M/LeetCode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0658-find-k-closest-elements](https://github.com/Govind-M/LeetCode-Problems/tree/master/0658-find-k-closest-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Govind-M/LeetCode-Problems/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1046-last-stone-weight](https://github.com/Govind-M/LeetCode-Problems/tree/master/1046-last-stone-weight) |
 ## Dynamic Programming
 |  |
 | ------- |
