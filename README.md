@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Govind-M/LeetCode-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Govind-M/LeetCode-Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Govind-M/LeetCode-Problems/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0707-design-linked-list](https://github.com/Govind-M/LeetCode-Problems/tree/master/0707-design-linked-list) |
 ## Queue
 |  |
 | ------- |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Govind-M/LeetCode-Problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Govind-M/LeetCode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
+| [0707-design-linked-list](https://github.com/Govind-M/LeetCode-Problems/tree/master/0707-design-linked-list) |
 ## Tree
 |  |
 | ------- |
