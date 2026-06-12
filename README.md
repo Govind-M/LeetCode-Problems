@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Govind-M/LeetCode-Problems/tree/master/0658-find-k-closest-elements) |
 | [0739-daily-temperatures](https://github.com/Govind-M/LeetCode-Problems/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Govind-M/LeetCode-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0912-sort-an-array](https://github.com/Govind-M/LeetCode-Problems/tree/master/0912-sort-an-array) |
 | [0994-rotting-oranges](https://github.com/Govind-M/LeetCode-Problems/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/Govind-M/LeetCode-Problems/tree/master/1046-last-stone-weight) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Govind-M/LeetCode-Problems/tree/master/2185-counting-words-with-a-given-prefix) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Govind-M/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Govind-M/LeetCode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/Govind-M/LeetCode-Problems/tree/master/0658-find-k-closest-elements) |
+| [0912-sort-an-array](https://github.com/Govind-M/LeetCode-Problems/tree/master/0912-sort-an-array) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Govind-M/LeetCode-Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Heap (Priority Queue)
 |  |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Govind-M/LeetCode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/Govind-M/LeetCode-Problems/tree/master/0658-find-k-closest-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Govind-M/LeetCode-Problems/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0912-sort-an-array](https://github.com/Govind-M/LeetCode-Problems/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/Govind-M/LeetCode-Problems/tree/master/1046-last-stone-weight) |
 ## Dynamic Programming
 |  |
@@ -334,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Govind-M/LeetCode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Govind-M/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Govind-M/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/Govind-M/LeetCode-Problems/tree/master/0912-sort-an-array) |
 ## Iterator
 |  |
 | ------- |
@@ -356,8 +360,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Govind-M/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/Govind-M/LeetCode-Problems/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Govind-M/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Govind-M/LeetCode-Problems/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Govind-M/LeetCode-Problems/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Govind-M/LeetCode-Problems/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
