@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Govind-M/LeetCode-Problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/Govind-M/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Govind-M/LeetCode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
+| [0206-reverse-linked-list](https://github.com/Govind-M/LeetCode-Problems/tree/master/0206-reverse-linked-list) |
 | [0707-design-linked-list](https://github.com/Govind-M/LeetCode-Problems/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Govind-M/LeetCode-Problems/tree/master/0876-middle-of-the-linked-list) |
 ## Tree
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Govind-M/LeetCode-Problems/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Govind-M/LeetCode-Problems/tree/master/0231-power-of-two) |
 ## Hash Function
 |  |
