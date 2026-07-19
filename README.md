@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Govind-M/LeetCode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Govind-M/LeetCode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/Govind-M/LeetCode-Problems/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Govind-M/LeetCode-Problems/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Govind-M/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Govind-M/LeetCode-Problems/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/Govind-M/LeetCode-Problems/tree/master/0066-plus-one) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Govind-M/LeetCode-Problems/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Govind-M/LeetCode-Problems/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Govind-M/LeetCode-Problems/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/Govind-M/LeetCode-Problems/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Govind-M/LeetCode-Problems/tree/master/0078-subsets) |
