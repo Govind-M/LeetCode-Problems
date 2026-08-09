@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Govind-M/LeetCode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Govind-M/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Govind-M/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0079-word-search](https://github.com/Govind-M/LeetCode-Problems/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Govind-M/LeetCode-Problems/tree/master/0131-palindrome-partitioning) |
 | [0392-is-subsequence](https://github.com/Govind-M/LeetCode-Problems/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Govind-M/LeetCode-Problems/tree/master/0412-fizz-buzz) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Govind-M/LeetCode-Problems/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/Govind-M/LeetCode-Problems/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/Govind-M/LeetCode-Problems/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Govind-M/LeetCode-Problems/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Govind-M/LeetCode-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/Govind-M/LeetCode-Problems/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Govind-M/LeetCode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Govind-M/LeetCode-Problems/tree/master/0079-word-search) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Govind-M/LeetCode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0994-rotting-oranges](https://github.com/Govind-M/LeetCode-Problems/tree/master/0994-rotting-oranges) |
 ## Binary Search
@@ -275,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Govind-M/LeetCode-Problems/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Govind-M/LeetCode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Govind-M/LeetCode-Problems/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Govind-M/LeetCode-Problems/tree/master/0100-same-tree) |
@@ -405,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Govind-M/LeetCode-Problems/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/Govind-M/LeetCode-Problems/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Govind-M/LeetCode-Problems/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Govind-M/LeetCode-Problems/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Govind-M/LeetCode-Problems/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Govind-M/LeetCode-Problems/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Govind-M/LeetCode-Problems/tree/master/0216-combination-sum-iii) |
