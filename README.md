@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/Govind-M/LeetCode-Problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Govind-M/LeetCode-Problems/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Govind-M/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Govind-M/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/Govind-M/LeetCode-Problems/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/Govind-M/LeetCode-Problems/tree/master/0371-sum-of-two-integers) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Govind-M/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/Govind-M/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Govind-M/LeetCode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Govind-M/LeetCode-Problems/tree/master/0131-palindrome-partitioning) |
 | [0392-is-subsequence](https://github.com/Govind-M/LeetCode-Problems/tree/master/0392-is-subsequence) |
@@ -425,5 +427,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Govind-M/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Govind-M/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
