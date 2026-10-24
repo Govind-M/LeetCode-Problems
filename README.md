@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Govind-M/LeetCode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Govind-M/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Govind-M/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/Govind-M/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Govind-M/LeetCode-Problems/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/Govind-M/LeetCode-Problems/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Govind-M/LeetCode-Problems/tree/master/0131-palindrome-partitioning) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Govind-M/LeetCode-Problems/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Govind-M/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Govind-M/LeetCode-Problems/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/Govind-M/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Govind-M/LeetCode-Problems/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/Govind-M/LeetCode-Problems/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/Govind-M/LeetCode-Problems/tree/master/0078-subsets) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Govind-M/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Govind-M/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Govind-M/LeetCode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/Govind-M/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Govind-M/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Govind-M/LeetCode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/Govind-M/LeetCode-Problems/tree/master/0242-valid-anagram) |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Govind-M/LeetCode-Problems/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/Govind-M/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Govind-M/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Govind-M/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Govind-M/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
