@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Govind-M/LeetCode-Problems/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/Govind-M/LeetCode-Problems/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Govind-M/LeetCode-Problems/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/Govind-M/LeetCode-Problems/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/Govind-M/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/Govind-M/LeetCode-Problems/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Govind-M/LeetCode-Problems/tree/master/0412-fizz-buzz) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Govind-M/LeetCode-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/Govind-M/LeetCode-Problems/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Govind-M/LeetCode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0139-word-break](https://github.com/Govind-M/LeetCode-Problems/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Govind-M/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Govind-M/LeetCode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Govind-M/LeetCode-Problems/tree/master/0162-find-peak-element) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Govind-M/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Govind-M/LeetCode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/Govind-M/LeetCode-Problems/tree/master/0049-group-anagrams) |
+| [0139-word-break](https://github.com/Govind-M/LeetCode-Problems/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Govind-M/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Govind-M/LeetCode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/Govind-M/LeetCode-Problems/tree/master/0242-valid-anagram) |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Govind-M/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Govind-M/LeetCode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Govind-M/LeetCode-Problems/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/Govind-M/LeetCode-Problems/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/Govind-M/LeetCode-Problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Govind-M/LeetCode-Problems/tree/master/0213-house-robber-ii) |
 | [0392-is-subsequence](https://github.com/Govind-M/LeetCode-Problems/tree/master/0392-is-subsequence) |
@@ -447,10 +451,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Govind-M/LeetCode-Problems/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Govind-M/LeetCode-Problems/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/Govind-M/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Govind-M/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Govind-M/LeetCode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Govind-M/LeetCode-Problems/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Govind-M/LeetCode-Problems/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
