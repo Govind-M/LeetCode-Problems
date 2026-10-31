@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Govind-M/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Govind-M/LeetCode-Problems/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/Govind-M/LeetCode-Problems/tree/master/0079-word-search) |
+| [0091-decode-ways](https://github.com/Govind-M/LeetCode-Problems/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/Govind-M/LeetCode-Problems/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Govind-M/LeetCode-Problems/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/Govind-M/LeetCode-Problems/tree/master/0242-valid-anagram) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Govind-M/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/Govind-M/LeetCode-Problems/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/Govind-M/LeetCode-Problems/tree/master/0091-decode-ways) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Govind-M/LeetCode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Govind-M/LeetCode-Problems/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Govind-M/LeetCode-Problems/tree/master/0139-word-break) |
