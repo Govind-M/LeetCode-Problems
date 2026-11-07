@@ -6,7 +6,7 @@ class Solution:
         if n == 1:
             return nums[0]
 
-        def helperRob(start:int,end:int)->int:
+        def helperRob(start,end):
 
             p2 = p1 = 0
 
