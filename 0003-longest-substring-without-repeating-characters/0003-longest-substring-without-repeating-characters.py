@@ -8,8 +8,8 @@ class Solution:
 
 
         while j < len(s):
-            if s[j] in included:
-                i = max(i,included[s[j]] + 1)
+            if s[j] in included and included[s[j]] >= i:
+                i = included[s[j]] + 1
 
             included[s[j]] = j
             currlen = (j-i) + 1
