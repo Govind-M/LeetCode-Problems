@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Govind-M/LeetCode-Problems/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/Govind-M/LeetCode-Problems/tree/master/0746-min-cost-climbing-stairs) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Govind-M/LeetCode-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0904-fruit-into-baskets](https://github.com/Govind-M/LeetCode-Problems/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/Govind-M/LeetCode-Problems/tree/master/0912-sort-an-array) |
 | [0994-rotting-oranges](https://github.com/Govind-M/LeetCode-Problems/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/Govind-M/LeetCode-Problems/tree/master/1046-last-stone-weight) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Govind-M/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Govind-M/LeetCode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0771-jewels-and-stones](https://github.com/Govind-M/LeetCode-Problems/tree/master/0771-jewels-and-stones) |
+| [0904-fruit-into-baskets](https://github.com/Govind-M/LeetCode-Problems/tree/master/0904-fruit-into-baskets) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Govind-M/LeetCode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Govind-M/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0658-find-k-closest-elements](https://github.com/Govind-M/LeetCode-Problems/tree/master/0658-find-k-closest-elements) |
+| [0904-fruit-into-baskets](https://github.com/Govind-M/LeetCode-Problems/tree/master/0904-fruit-into-baskets) |
 ## Sorting
 |  |
 | ------- |
