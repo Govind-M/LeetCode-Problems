@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Govind-M/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/Govind-M/LeetCode-Problems/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/Govind-M/LeetCode-Problems/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/Govind-M/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Govind-M/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/Govind-M/LeetCode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Govind-M/LeetCode-Problems/tree/master/0322-coin-change) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Govind-M/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Govind-M/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/Govind-M/LeetCode-Problems/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Govind-M/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Govind-M/LeetCode-Problems/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/Govind-M/LeetCode-Problems/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Govind-M/LeetCode-Problems/tree/master/0509-fibonacci-number) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Govind-M/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Govind-M/LeetCode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/Govind-M/LeetCode-Problems/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Govind-M/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Govind-M/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Govind-M/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Govind-M/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Govind-M/LeetCode-Problems/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Govind-M/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Govind-M/LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/Govind-M/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Govind-M/LeetCode-Problems/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/Govind-M/LeetCode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0374-guess-number-higher-or-lower](https://github.com/Govind-M/LeetCode-Problems/tree/master/0374-guess-number-higher-or-lower) |
@@ -205,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Govind-M/LeetCode-Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Govind-M/LeetCode-Problems/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/Govind-M/LeetCode-Problems/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Govind-M/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Govind-M/LeetCode-Problems/tree/master/0371-sum-of-two-integers) |
 ## Two Pointers
 |  |
@@ -239,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Govind-M/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Govind-M/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Govind-M/LeetCode-Problems/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Govind-M/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Govind-M/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Govind-M/LeetCode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/Govind-M/LeetCode-Problems/tree/master/0658-find-k-closest-elements) |
