@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/Govind-M/LeetCode-Problems/tree/master/1046-last-stone-weight) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Govind-M/LeetCode-Problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Govind-M/LeetCode-Problems/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Govind-M/LeetCode-Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Govind-M/LeetCode-Problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Govind-M/LeetCode-Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Math
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/Govind-M/LeetCode-Problems/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/Govind-M/LeetCode-Problems/tree/master/0904-fruit-into-baskets) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Govind-M/LeetCode-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Govind-M/LeetCode-Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Govind-M/LeetCode-Problems/tree/master/0904-fruit-into-baskets) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Govind-M/LeetCode-Problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Govind-M/LeetCode-Problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Govind-M/LeetCode-Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sorting
 |  |
 | ------- |
